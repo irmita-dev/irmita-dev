@@ -1,44 +1,70 @@
-<img src="https://raw.githubusercontent.com/irmita-dev/irmita-dev/main/irmita-dev%20banner.png" width="100%">
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/irmita-dev/irmita-dev/main/irmita-dev%20banner.png" width="100%">
+</p>
 
-# 👋 Hi, I'm Irma
+<!-- Title -->
+<h1 align="center">👋 Hi, I'm Irma</h1>
 
-### Python Developer | Linux • Git • Clean Code | React & Java Beginner  
-Always learning, building and improving.
-
----
-
-## 🚀 About Me
-- 🔧 Focused on writing clean, readable, maintainable code  
-- 🐍 Strong foundation in **Python** (OOP, modules, testing, CLI apps)  
-- 💻 Comfortable on **Linux**, terminal, and development workflows  
-- 🔁 Learning **React** and **Java** to grow full-stack understanding  
-- 📚 Constantly building projects to strengthen real-world problem-solving  
+<p align="center">
+  <strong>Python Developer | Linux & Git | Clean Code Mindset | React & Java Beginner</strong><br>
+  Always learning, building and improving.
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** Python, Java (beginner), JavaScript (beginner)  
-**Tools:** Git, Linux, VS Code, Bash  
-**Frameworks / Libraries:** PyTest, React (beginner)  
-**Other:** Clean Code, modular architecture, testing mindset  
+## 🌸 About Me
+
+- ✨ Focused on writing clean, readable, maintainable code  
+- 🐍 Strong foundation in **Python** (OOP, modules, CLI apps, testing)  
+- 🐧 Comfortable working in **Linux**, WSL, terminal, development workflows  
+- 🧠 Learning **React** & **Java** to grow toward full-stack understanding  
+- 🔍 Constantly building projects to strengthen real-world problem-solving  
+- 📚 Daily mindset: *learn → build → improve → repeat*
 
 ---
 
-## 📂 Current Projects  
-- 🧮 Smart Calculator (Python, modular architecture, full testing)  
-- 🐍 Python automation & CLI tools  
-- 🌐 React practice projects  
+## 🛠 Tech Stack
+
+**Languages:**  
+Python, Java (beginner), JavaScript (beginner)
+
+**Tools & Environment:**  
+Linux, Git, VS Code, Bash
+
+**Frameworks / Libraries:**  
+PyTest, React (beginner)
+
+**Other:**  
+Clean Code, modular architecture, testing mindset
+
+---
+
+## 🚧 Current Projects
+
+- 🧮 **Smart Calculator** — Python, modular architecture, full unit testing  
+- ⚙️ Python automation & CLI tools  
+- ⚛️ React practice projects  
 - ☕ Java basics & OOP exercises  
 
 ---
 
-## 🎯 Goals  
-- Master Python for backend development  
+## 🎯 Goals
+
+- Become strong in **backend Python development**  
 - Build a portfolio of clean, well-structured projects  
-- Learn full-stack foundations (React + API work)  
-- Become confident contributing to open-source  
+- Learn full-stack foundations (React → APIs → DB)  
+- Grow to a point where contributing to open-source feels natural  
 
 ---
 
-## 🔗 Connect  
-Feel free to explore my projects or reach out!
+## 📫 Connect
+
+<p align="left">
+  💼 GitHub: <a href="https://github.com/irmita-dev">github.com/irmita-dev</a><br>
+  📧 Email: ljubijankicirma3@gmail.com  
+</p>
+
+---
+
+<p align="center">🌱 *Keep learning. Keep building. Keep improving.*</p>
