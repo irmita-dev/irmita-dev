@@ -44,7 +44,7 @@ Clean Code, modular architecture, testing mindset
 
 - 🧮 **Smart Calculator** — <p>
   <a href="https://github.com/irmita-dev/smart-calculator">
-    <img src="https://raw.githubusercontent.com/irmita-dev/smart-calculator/main/smart-calculator-irmita-dev.png" width="100%">
+    <img src="https://raw.githubusercontent.com/irmita-dev/smart-calculator/main/smart-calculator-irmita-dev.png" width="45%">
   </a>
 </p>
 
