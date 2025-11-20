@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/irmita-dev/irmita-dev/main/irmita-dev%20banner.png" width="100%">
+
 # 👋 Hi, I'm Irma
 
 ### Python Developer | Linux • Git • Clean Code | React & Java Beginner  
