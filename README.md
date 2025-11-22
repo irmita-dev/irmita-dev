@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/irmita-dev/irmita-dev/main/irmita-dev%20banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/irmita-dev/irmita-dev/main/irmita-dev%20banner.png" width="75%">
 </p>
 
 <!-- Title -->
@@ -57,15 +57,6 @@ A fully tested and modular Python CLI calculator using clean code principles.
 
 ---
 
-## 🎯 Goals
-
-- Become strong in **backend Python development**  
-- Build a portfolio of clean, well-structured projects  
-- Learn full-stack foundations (React → APIs → DB)  
-- Grow to a point where contributing to open-source feels natural  
-
----
-
 ## 📫 Connect
 
 <p align="left">
@@ -75,4 +66,4 @@ A fully tested and modular Python CLI calculator using clean code principles.
 
 ---
 
-<p align="center">🌱 *Keep learning. Keep building. Keep improving.*</p>
+<p align="center">🌱 *My MOTO: Keep learning. Keep building. Keep improving.*</p>
