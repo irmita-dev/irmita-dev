@@ -41,9 +41,9 @@ Clean Code, modular architecture, testing mindset
 ---
 
 ## 🚧 Current Projects
-
+<p align="center">
 - 🧮 **Smart Calculator** — A fully tested and modular Python CLI calculator using clean code principles.  
-  ➡️ **Open Project:** https://github.com/irmita-dev/smart-calculator
+  ➡️ **Open Project:** https://github.com/irmita-dev/smart-calculator <p>
   <a href="https://github.com/irmita-dev/smart-calculator">
     <img src="https://raw.githubusercontent.com/irmita-dev/smart-calculator/main/smart-calculator-irmita-dev.png" width="25%">
   </a>
@@ -52,7 +52,7 @@ Clean Code, modular architecture, testing mindset
 - ⚛️ React practice projects
   
 - ☕ Java basics & OOP exercises  
-
+</p>
 ---
 
 ## 📫 Connect
