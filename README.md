@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/irmita-dev/irmita-dev/main/irmita-dev%20banner.png" width="75%">
+  <img src="https://raw.githubusercontent.com/irmita-dev/irmita-dev/main/irmita-dev%20banner.png" width="55%">
 </p>
 
 <!-- Title -->
@@ -50,11 +50,15 @@ A fully tested and modular Python CLI calculator using clean code principles.
 🔗 **Open Project:**  
 <a href="https://github.com/irmita-dev/smart-calculator">github.com/irmita-dev/smart-calculator</a>
 
-<br><br>
+---
 
-<a href="https://github.com/irmita-dev/smart-calculator">
-  <img src="https://raw.githubusercontent.com/irmita-dev/smart-calculator/main/smart-calculator-irmita-dev.png" width="35%">
-</a>
+### 🔐 Password Manager
+
+A secure and fully tested **Password Manager** written in Python.  
+Includes **AES-level encryption**, **encrypted JSON storage**, **Clean Architecture**, **TDD**, CLI and GUI (Tkinter).  
+
+🔗 **Open Project:**  
+<a href="https://github.com/irmita-dev/password-manager">github.com/irmita-dev/password-manager</a>
 
 ---
 
