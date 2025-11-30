@@ -62,6 +62,18 @@ Includes **AES-level encryption**, **encrypted JSON storage**, **Clean Architect
 
 ---
 
+### 🤖 AI ASSISTANT
+A modular, fully tested, extensible AI Assistant built with Python, Clean Architecture, and Test-Driven Development (TDD).
+
+It includes:
+AI Core Engine (role-based messages, conversation tracking), Pluggable AI Providers (FakeAI now, real API ready), JSONL History Storage, CLI Chat Interface, GUI Prototype (Tkinter), 100% green tests.
+My portfolio project to showcase software architecture, testing discipline and Python engineering.
+
+🔗 **Open Project:**  
+<a href="https://github.com/irmita-dev/ai-assistant">github.com/irmita-dev/ai-assistant</a>
+
+---
+
 ### ⚙️ Python automation & CLI tools  
 ### ⚛️ React practice projects  
 ### ☕ Java basics & OOP exercises  
