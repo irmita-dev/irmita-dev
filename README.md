@@ -21,6 +21,10 @@
 
 ## 🌟 My Portfolio Showcase Projects
 
+### 🤖 AIVA - AI Virtual Assistant
+AIVA - AI Virtual Assistant built with Python (Flask, API), React (Vite), TDD and Clean Architecture. Includes a custom local AI engine, modern UI,
+full API integration and modular full-stack design. 🔗 Open Project: https://github.com/irmita-dev/aiva-ai-virtual-assistant
+
 ### 🧮 Smart Calculator  
 Clean, modular Python calculator — fully covered with TDD. 🔗 Open Project: https://github.com/irmita-dev/smart-calculator
 
