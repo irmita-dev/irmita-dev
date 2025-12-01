@@ -1,94 +1,99 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/irmita-dev/irmita-dev/main/irmita-dev%20banner.png" width="55%">
-</p>
-
-<!-- Title -->
-<h1 align="center">👋 Hi, I'm Irma</h1>
-
-<p align="center">
-  <strong>Python Developer | Linux & Git | Clean Code Mindset | React & Java Beginner</strong><br>
-  Always learning, building and improving.
-</p>
-
----
-
-## 🌸 About Me
-
-- ✨ Focused on writing clean, readable, maintainable code  
-- 🐍 Strong foundation in **Python** (OOP, modules, CLI apps, testing)  
-- 🐧 Comfortable working in **Linux**, WSL, terminal, development workflows  
-- 🧠 Learning **React** & **Java** to grow toward full-stack understanding  
-- 🔍 Constantly building projects to strengthen real-world problem-solving  
-- 📚 Daily mindset: *learn → build → improve → repeat*
-
----
-
-## 🛠 Tech Stack
-
-**Languages:**  
-Python, Java (beginner), JavaScript (beginner)
-
-**Tools & Environment:**  
-Linux, Git, VS Code, Bash
-
-**Frameworks / Libraries:**  
-PyTest, React (beginner)
-
-**Other:**  
-Clean Code, modular architecture, testing mindset
-
----
-
-## 🚧 Current Projects
-
 <div align="center">
 
-### 🧮 Smart Calculator  
-A fully tested and modular Python CLI calculator using clean code principles.  
-
-🔗 **Open Project:**  
-<a href="https://github.com/irmita-dev/smart-calculator">github.com/irmita-dev/smart-calculator</a>
-
----
-
-### 🔐 Password Manager
-
-A secure and fully tested **Password Manager** written in Python.  
-Includes **AES-level encryption**, **encrypted JSON storage**, **Clean Architecture**, **TDD**, CLI and GUI (Tkinter).  
-
-🔗 **Open Project:**  
-<a href="https://github.com/irmita-dev/password-manager">github.com/irmita-dev/password-manager</a>
-
----
-
-### 🤖 AI ASSISTANT
-A modular, fully tested, extensible AI Assistant built with Python, Clean Architecture, and Test-Driven Development (TDD).
-
-It includes:
-AI Core Engine (role-based messages, conversation tracking), Pluggable AI Providers (FakeAI now, real API ready), JSONL History Storage, CLI Chat Interface, GUI Prototype (Tkinter), 100% green tests.
-My portfolio project to showcase software architecture, testing discipline and Python engineering.
-
-🔗 **Open Project:**  
-<a href="https://github.com/irmita-dev/ai-assistant">github.com/irmita-dev/ai-assistant</a>
-
----
-
-### ⚙️ Python automation & CLI tools  
-### ⚛️ React practice projects  
-### ☕ Java basics & OOP exercises  
+# 👩‍💻 Irmita Dev  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=90&color=7F6CFF&center=true&vCenter=true&width=550&lines=Python+Developer;Clean+Architecture+%7C+TDD;Always+Learning+%26+Building;Linux+%7C+Git+%7C+OOP" />
 
 </div>
 
 ---
 
-## 📫 Connect
+<div align="center">
 
-<p align="left">
-  💼 GitHub: <a href="https://github.com/irmita-dev">github.com/irmita-dev</a><br>
-  📧 Email: ljubijankicirma3@gmail.com  
-</p>
+![Python](https://img.shields.io/badge/Python-Developer-blue)
+![TDD](https://img.shields.io/badge/TDD-Yes-success)
+![Linux](https://img.shields.io/badge/Linux-WSL2-yellow)
+![CleanCode](https://img.shields.io/badge/Clean%20Code-Architecture-purple)
+![OpenSource](https://img.shields.io/badge/Open--Source-Learning-brightgreen)
+
+</div>
 
 ---
 
-<p align="center">🌱 <i>My MOTO: Keep learning. Keep building. Keep improving.</i></p>
+## 🌟 My Portfolio Showcase Projects
+
+### 🧮 Smart Calculator  
+Clean, modular Python calculator — fully covered with TDD. 🔗 Open Project: https://github.com/irmita-dev/smart-calculator
+
+### 🔐 Password Manager  
+Encrypted vault using Fernet + JSON storage + Tkinter GUI. 🔗 Open Project: https://github.com/irmita-dev/password-manager
+
+### 🤖 AI Assistant  
+Conversational engine with CLI + history system + clean architecture. 🔗 Open Project: https://github.com/irmita-dev/ai-assistant
+
+### 💻 Building & learning new projects
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irmita-dev&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages:** Python, Java (beginner), Bash  
+**Tech:** Linux (WSL2), Cryptography, Tkinter, JSON, CLI apps  
+**Principles:** Clean Code, TDD, Modular Architecture, OOP  
+**Tools:** Git, GitHub, VS Code, pytest
+
+---
+
+## 💎 My Values as a Developer
+
+- **Consistency over motivation** — I learn and build daily.  
+- **Clarity before complexity** — clean code first, features second.  
+- **Structure & discipline** — sustainable progress beats rushing.  
+- **Problem-solving mindset** — every issue is a learning opportunity.  
+- **Responsibility & ownership** — I finish what I start.  
+- **Learning as a habit** — small improvements every day.  
+
+---
+
+## 🚀 2025 Roadmap
+
+- Deepen backend development (Flask / FastAPI)  
+- Build advanced GUI & desktop apps  
+- Master OOP patterns & architecture  
+- Improve debugging strategies  
+- Contribute to open-source  
+
+---
+
+## 💡 About Me
+
+Highly organized, persistent and detail-oriented.  Used to responsibility, strong time management and solving complex problems.  
+Self-taught + Python certified, continuously improving through real-world projects.  Coding is my discipline and passion — I learn and build every single day.
+
+---
+<div align="center">
+  
+## 📫 Contact
+
+**GitHub:** https://github.com/irmita-dev  
+**Email:** ljubijankicirma3@gmail.com
+
+</div>
+
+
+---
+
+## 🗺️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irmita-dev&theme=github-dark&hide_border=true&area=true" width="95%"/>
+</p>
