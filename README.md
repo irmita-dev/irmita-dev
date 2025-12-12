@@ -34,7 +34,17 @@
     I build clean, test-driven and modular applications with a strong focus on backend architecture
     and polished user experience. Below is a curated selection of my work.
   </p>
-
+    <h3>🌐AD FLIESEN – Premium Website - Fliesenleger in Salzburg </h3>
+      <ul>
+        This repository contains the source code for the premium marketing website of AD FLIESEN | Fliesenleger | Salzburg,
+        a local tiling and bathroom renovation business based in Salzburg, Austria.
+        <li> UI language: German (DE)</li>
+        <li> Target: local customers in Salzburg & Salzburg Umgebung</li>
+        <li> Goal: Turn visitors into high-quality leads via phone, WhatsApp and contact form</li>
+        <li> Demo Website: https://ad-fliesen-salzburg.netlify.app/ (The demo website is only for now, until the company has completely arranged the old domain and the new one)</li>
+        <li> Repo: https://github.com/irmita-dev/ad-fliesen-premium-website</li>
+        </ul>
+  </p>
   <h3>🎛️ Personal AI Dashboard (FastAPI + React)</h3>
   <p>
     A cinematic productivity dashboard built as a <strong>full-stack application</strong>:
