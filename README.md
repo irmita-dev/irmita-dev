@@ -46,7 +46,15 @@
   <h2>📌 Selected work</h2>
   <ul>
     <li>
-      <strong>HIP — Hiring Intent Platform (Demo)</strong><br />
+      <strong>CC — CLEARCUT (Demo)</strong><br />
+      An interactive demo exploring better hiring signals in an AI-native world.<br />
+      <a href="https://clearcut-demo.netlify.app/" target="_blank">Live demo</a> ·
+      <a href="https://github.com/irmita-dev/clearcut-demo" target="_blank">Repository</a>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <strong>HIP — Hiring Intent Platform  (Demo)</strong><br />
       A product demo exploring how hiring intent can be made explicit and enforced
       instead of assumed.<br />
       <a href="https://hip-hiring-intent-platform-demo.netlify.app/" target="_blank">Live demo</a> ·
